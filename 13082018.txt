@@ -1,0 +1,31 @@
+git init -  Inicializa o repositório do Git
+
+git status - Verifica o status do repositório 
+
+git add <arquivo> - Adiciona a modificação do arquivo
+
+touch <arquivo> - cria um aquivo no linux
+
+git diff <arquivo> - Verifica quais foram as alterações feitas
+
+git rm <arquivo> - Apaga um arquivo do diretorio
+
+git log - Verifica os commits mais recentes
+.
+gitignore - arquivo para o Git ignorar
+git commit -m "comentario"- consolida as auterações 
+git pull - RECEBEMOS A ATUALIZAÇÃO 
+git push - força as atualizações do repositório local para o remoto
+git clone - cópia do repositório
+git remote add origin (URL)
+git commit --amend - Modifica o útimo arquio
+git checkputr <arquivo> - Desfazendo um arquivo modificado
+git reset HEAD <arquivo> - Remove o arquivo da área de validação
+git reset HARD - apaga tudão
+git revert -
+
+
+owcloud.org - Nuvem gratuita (drop box)
+cycleGAN - Softwarer que usa IA para modificar fotos 
+detectron - identofocação de obejtos
+awesome php - conjunto de materiais de estudo na linguagem php
