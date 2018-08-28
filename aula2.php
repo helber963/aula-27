@@ -1,10 +1,10 @@
 <?php
-class pessoa{
-protected $altura;
-protected $nome;
+	class pessoa{
+		protected $altura;
+		protected $nome;
 
-public function andar (){
-echo "Andando...";
-}
-}
+		public function andar (){
+			echo "Andando...";
+		}
+	}
 ?>
